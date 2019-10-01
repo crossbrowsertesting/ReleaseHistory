@@ -1,6 +1,20 @@
 # ReleaseHistory
 Release History for CrossBrowserTesting.com App
 
+## Version 11.9
+```
+-Fixed security issues found by routine security testing
+-Fireox 69 and Opera 63 on Windows
+-Chrome 77 on Windows
+-Enabled Accept All Certs to Enterprise Connection Manager
+-Enabled Accept All Certs to latest iPhones
+-Screenshot testing enabled on Chrome 77
+-Released Headless Testing
+-Chrome 77 to Pixel 3
+-Firefox 69 and Opera 63 on OSX
+-Improved clean times of iPhones by 30+ seconds
+```
+
 ## Version 11.8
 ```
 -Changed Enterprise Connection Manager (ECM) to work for customers that route traffic via a proxy server
