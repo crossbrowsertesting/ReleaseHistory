@@ -4,7 +4,7 @@ Release History for CrossBrowserTesting.com App
 ## Version 11.9
 ```
 -Fixed security issues found by routine security testing
--Fireox 69 and Opera 63 on Windows
+-Firefox 69 and Opera 63 on Windows
 -Chrome 77 on Windows
 -Enabled Accept All Certs to Enterprise Connection Manager
 -Enabled Accept All Certs to latest iPhones
